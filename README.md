@@ -1,16 +1,15 @@
 # 3D Snake Game
 
 ## Overview
-The 3D Snake Game is a modern twist on the classic snake game, built using HTML, CSS, and JavaScript. It features a 3D perspective, vibrant colors, and smooth animations for an immersive gameplay experience.
+This game offers a dynamic and engaging experience with the option to play in both 2D and 3D modes. The 2D mode provides a more traditional, top-down view of the game, allowing for a simpler and classic gameplay style. The 3D mode brings a fully immersive, three-dimensional world for players looking for a more visually rich and interactive experience.
 
 ---
 
 ## Features
-- 3D gameplay with rotating perspectives
-- Simple and intuitive controls
-- Dynamic scoring system
-- Stylish design with glowing effects
-- Playable on desktop 
+- 2D Mode: A classic 2D experience that provides easy-to-navigate gameplay, perfect for players who enjoy simplicity and nostalgia.
+- 3D Mode: A fully immersive 3D environment, offering a visually enhanced, interactive world.
+- Dynamic Gameplay: Enjoy a seamless transition between different modes depending on your preferences.
+
 
 ---
 
